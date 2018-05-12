@@ -1,0 +1,43 @@
+_repo: Gathering-JewelsThe-Secret-of-a-Beautiful-Life--In-Memoriam-of-Mr.--amp--Mrs.-James-Knowles.-__22134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Knowles, James
+    birthdate: &id001 1811
+    deathdate: &id002 1886
+    gutenberg_agent_id: '36494'
+    url: http://www.gutenberg.org/2009/agents/36494
+  - agent_name: Knowles, Matilda Darroch
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '25131'
+    url: http://www.gutenberg.org/2009/agents/25131
+  editor:
+    agent_name: Young, Duncan McNeill
+    birthdate: 1838
+    deathdate: 1891
+    gutenberg_agent_id: '25132'
+    url: http://www.gutenberg.org/2009/agents/25132
+description: ''
+gutenberg_issued: '2007-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22134'
+  lccn: '36024288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowles, Matilda Darroch, 1811-1886'
+- !lcsh 'Knowles, James, 1811-1886'
+- !lcsh 'Allen Street Presbyterian Church (New York, N.Y.)'
+- !lcc 'BX'
+title: 'Gathering Jewels
+
+  The Secret of a Beautiful Life: In Memoriam of Mr. & Mrs. James Knowles. Selected
+  from Their Diaries.'
+url: http://www.gutenberg.org/ebooks/22134
