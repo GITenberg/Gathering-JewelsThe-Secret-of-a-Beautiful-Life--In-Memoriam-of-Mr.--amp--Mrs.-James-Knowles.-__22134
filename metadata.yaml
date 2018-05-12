@@ -6,13 +6,13 @@ covers:
 creator:
   authors:
   - agent_name: Knowles, James
-    birthdate: &id001 1811
-    deathdate: &id002 1886
+    birthdate: 1811
+    deathdate: 1886
     gutenberg_agent_id: '36494'
     url: http://www.gutenberg.org/2009/agents/36494
   - agent_name: Knowles, Matilda Darroch
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1811
+    deathdate: 1886
     gutenberg_agent_id: '25131'
     url: http://www.gutenberg.org/2009/agents/25131
   editor:
@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '25132'
     url: http://www.gutenberg.org/2009/agents/25132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22134#Gathering-JewelsThe-Secret-of-a-Beautiful-Life--In-Memoriam-of-Mr.--amp--Mrs.-James-Knowles.-_
 gutenberg_issued: '2007-07-24'
 gutenberg_type: Text
 identifiers:
